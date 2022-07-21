@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6dceaa167e841c5079ed36be7eab9f2d92c326dc15941a2cfba2d71a6cee836f"
+            "sha256": "8e24df6cc9686495d660df03af8ffa7f426478f64bcd2c7dd82427c8b9530ee4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -29,6 +29,10 @@
                 "sha256:fbbce6a29f263178a1f7915c1940bde0ec2b2a967566fe1c65c1dfb7422bd255"
             ],
             "version": "==0.2.0"
+        },
+        "comision-revision-bolivia": {
+            "editable": true,
+            "path": "."
         },
         "debugpy": {
             "hashes": [
@@ -69,6 +73,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==0.4"
+        },
+        "et-xmlfile": {
+            "hashes": [
+                "sha256:8eb9e2bc2f8c97e37a2dc85a09ecdcdec9d8a396530a6d5a33b30b9a92da0c5c",
+                "sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==1.1.0"
         },
         "executing": {
             "hashes": [
@@ -160,6 +172,14 @@
             ],
             "index": "pypi",
             "version": "==1.23.1"
+        },
+        "openpyxl": {
+            "hashes": [
+                "sha256:0ab6d25d01799f97a9464630abacbb34aafecdcaa0ef3cba6d6b3499867d0355",
+                "sha256:e47805627aebcf860edb4edf7987b1309c1b3632f3750538ed962bbcc3bd7449"
+            ],
+            "index": "pypi",
+            "version": "==3.0.10"
         },
         "packaging": {
             "hashes": [
@@ -324,7 +344,7 @@
                 "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.8.2"
         },
         "pytz": {
@@ -410,7 +430,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         },
         "stack-data": {

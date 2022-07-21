@@ -11,6 +11,8 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 plotly = "*"
+comision-revision-bolivia = {editable = true, path = "."}
+openpyxl = "*"
 
 [dev-packages]
 
