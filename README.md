@@ -1,5 +1,5 @@
 # Comision Revision Bolivia
-Análisis de datos para revisar los resultados del trabajo de la Comisión de Revisión de Casos de Violación y Feminicidio en Bolivia
+Análisis de datos del trabajo de la Comisión de Revisión de Casos de Violación y Feminicidio en Bolivia
 
 ## Directory Structure
 ---
