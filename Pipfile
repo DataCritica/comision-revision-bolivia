@@ -13,6 +13,9 @@ numpy = "*"
 plotly = "*"
 comision-revision-bolivia = {editable = true, path = "."}
 openpyxl = "*"
+folium = "*"
+altair = "*"
+geopandas = "*"
 
 [dev-packages]
 
