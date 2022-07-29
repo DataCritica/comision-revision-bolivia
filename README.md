@@ -14,6 +14,7 @@ Análisis de datos del trabajo de la Comisión de Revisión de Casos de Violaci�
 |- data                    # Categorized data files                      
 |  |- processed            # Cleaned data
 |  |- raw                  # Original data
+|  |- geo                  # Geographical data
 |
 |- docs                    # Explanatory materials
 |  |- references           # Papers, manuals, articles, etc.
